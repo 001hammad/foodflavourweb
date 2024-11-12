@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="sm:flex flex-1 justify-between ">
         <div>
           <h1 className="text-5xl text-gray-800  font-bold mt-16 sm:mt-40 ml-11 mb-0">
-            It&apos;s the food and groceries you love, delivered
+            It&apos;s the food and groceries you love delivered
           </h1>
           <div className="bg-white rounded-lg shadow-lg shadow-gray-400 p-4 w-10/12 ml-11 mt-5 ">
             <input
@@ -34,7 +34,7 @@ const Hero = () => {
       </div>
 
       <h2 className="text-4xl font-bold sm:mt-44 sm:ml-14 ml-4 mb-7 text-gray-800">
-        You prepare the food, we handle the rest
+        You prepare the food we handle the rest
       </h2>
       <Image src={pandafirepic} alt="firepic" width={2000} />
 
@@ -47,8 +47,8 @@ const Hero = () => {
           and groceries? So would we!
         </p>
         <p className="mt-5">
-          It&apos;s simple: we list your menu and product lists online, help you
-          process orders, pick them up, and deliver them to hungry pandas - in a
+          It&apos;s simple: we list your menu and product lists online help you
+          process orders pick them up and deliver them to hungry pandas - in a
           heartbeat!
         </p>
         <p className="mt-5">Interested? Let&apos;s start our partnership today!</p>
@@ -297,7 +297,7 @@ const Hero = () => {
       <div className="text-center text-balance">
         <h2 className="sm:w-3/6 sm:ml-80 text-4xl font-bold sm:mt-14">Order food and groceries online from the best restaurants and shops on foodpanda</h2>
         <p className="sm:w-3/6 sm:ml-80 sm:mt-4">Are you hungry? Did you have a long and stressful day? Interested in getting a cheesy pizza delivered to your office or looking to avoid the weekly shop? Then foodpanda Pakistan is the right destination for you! foodpanda offers you a long and detailed list of the best restaurants and shops near you to help make your every day easier.</p>
-        <h2 className="sm:w-3/6 sm:ml-80 text-4xl font-bold sm:mt-7 ">What's new?</h2>
+        <h2 className="sm:w-3/6 sm:ml-80 text-4xl font-bold sm:mt-7 ">What&apos;s new?</h2>
         <p className="sm:w-3/6 sm:ml-80 sm:mt-3">✓ Wide variety of restaurants and shops, an abundance of cuisines & products.</p>
         <p className="sm:w-3/6 sm:ml-36">✓ High quality delivery service.</p>
         <p className="sm:w-3/6 sm:ml-72">✓ NEW: foodpanda grocery delivery! Discover the best and more near you.</p>
