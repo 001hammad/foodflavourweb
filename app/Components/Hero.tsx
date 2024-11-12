@@ -51,7 +51,7 @@ const Hero = () => {
           process orders, pick them up, and deliver them to hungry pandas - in a
           heartbeat!
         </p>
-        <p className="mt-5">Interested? Let's start our partnership today!</p>
+        <p className="mt-5">Interested? Let&apos;s start our partnership today!</p>
         <button className="bg-[#FD367E] p-3 rounded-lg m-4 text-white font-bold hover:bg-pink-800  duration-300">
           Get started
         </button>
