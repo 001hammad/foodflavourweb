@@ -61,32 +61,34 @@ const Hero = () => {
         Find us in these cities and many more!
       </h2>
       <div>
-        <div className="flex-1 sm:flex justify-center gap-7 mt-8 sm:ml-0 ml-11">
-          <Image
-            src={city1}
-            alt="City-1"
-            width={300}
-            className="rounded-xl sm:mb-0 mb-6"
-          />
-          <Image
-            src={city2}
-            alt="City-1"
-            width={300}
-            className="rounded-xl sm:mb-0 mb-6"
-          />
-          <Image
-            src={city3}
-            alt="City-1"
-            width={300}
-            className="rounded-xl sm:mb-0 mb-6"
-          />
-          <Image
-            src={city4}
-            alt="City-1"
-            width={300}
-            className="rounded-xl sm:mb-0 mb-6"
-          />
-        </div>
+      <div className="flex-1 sm:flex justify-center gap-7 mt-8 sm:ml-0 ml-11">
+      <Image
+    src={city4}
+    alt="City-1"
+    width={300}
+    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+  />
+  <Image
+    src={city3}
+    alt="City-1"
+    width={300}
+    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+  />
+  <Image
+    src={city1}
+    alt="City-1"
+    width={300}
+    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+  />
+  <Image
+    src={city2}
+    alt="City-1"
+    width={300}
+    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+  />
+  
+</div>
+
         <div className="flex justify-center space-x-72 mt-8">
           <h1 className="bg-white shadow-sm shadow-gray-500 p-2 rounded-lg sm:block hidden">
             Bahawalpur
@@ -101,32 +103,34 @@ const Hero = () => {
             Islamabad
           </h1>
         </div>
-        <div className="flex-1 sm:flex justify-center gap-7 mt-8 sm:ml-0 ml-11 ">
-          <Image
-            src={city4}
-            alt="City-1"
-            width={300}
-            className="rounded-xl sm:block hidden"
-          />
-          <Image
-            src={city1}
-            alt="City-1"
-            width={300}
-            className="rounded-xl sm:block hidden"
-          />
-          <Image
-            src={city3}
-            alt="City-1"
-            width={300}
-            className="rounded-xl sm:block hidden"
-          />
-          <Image
-            src={city2}
-            alt="City-1"
-            width={300}
-            className="rounded-xl sm:block hidden"
-          />
-        </div>
+        <div className="flex-1 sm:flex justify-center gap-7 mt-8 sm:ml-0 ml-11">
+  <Image
+    src={city1}
+    alt="City-1"
+    width={300}
+    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+  />
+  
+  <Image
+    src={city2}
+    alt="City-1"
+    width={300}
+    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+  />
+  <Image
+    src={city3}
+    alt="City-1"
+    width={300}
+    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+  />
+  <Image
+    src={city4}
+    alt="City-1"
+    width={300}
+    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+  />
+</div>
+
         <div className="flex justify-center mt-8 space-x-72">
           <h1 className="bg-white shadow-sm shadow-gray-500 p-2 rounded-lg sm:block hidden">
             Bahawalpur
@@ -142,31 +146,34 @@ const Hero = () => {
           </h1>
         </div>
         <div className="flex-1 sm:flex justify-center gap-7 mt-8 sm:ml-0 ml-11">
-          <Image
-            src={city2}
-            alt="City-1"
-            width={300}
-            className="rounded-xl sm:block hidden"
-          />
-          <Image
-            src={city1}
-            alt="City-1"
-            width={300}
-            className="rounded-xl sm:block hidden"
-          />
-          <Image
-            src={city4}
-            alt="City-1"
-            width={300}
-            className="rounded-xl sm:block hidden"
-          />
-          <Image
-            src={city3}
-            alt="City-1"
-            width={300}
-            className="rounded-xl sm:block hidden"
-          />
-        </div>
+        <Image
+    src={city3}
+    alt="City-1"
+    width={300}
+    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+  />
+  <Image
+    src={city1}
+    alt="City-1"
+    width={300}
+    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+  />
+  
+  
+  <Image
+    src={city4}
+    alt="City-1"
+    width={300}
+    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+  />
+  <Image
+    src={city2}
+    alt="City-1"
+    width={300}
+    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+  />
+</div>
+
         <div className="flex justify-center mt-8 space-x-72">
           <h1 className="bg-white shadow-sm shadow-gray-500 p-2 rounded-lg sm:block hidden">
             Bahawalpur
@@ -182,31 +189,32 @@ const Hero = () => {
           </h1>
         </div>
         <div className="flex-1 sm:flex justify-center gap-7 mt-8 sm:ml-0 ml-11">
-          <Image
-            src={city1}
-            alt="City-1"
-            width={300}
-            className="rounded-xl sm:block hidden"
-          />
-          <Image
-            src={city3}
-            alt="City-1"
-            width={300}
-            className="rounded-xl sm:block hidden"
-          />
-          <Image
-            src={city2}
-            alt="City-1"
-            width={300}
-            className="rounded-xl sm:block hidden"
-          />
-          <Image
-            src={city4}
-            alt="City-1"
-            width={300}
-            className="rounded-xl sm:block hidden"
-          />
-        </div>
+  <Image
+    src={city1}
+    alt="City-1"
+    width={300}
+    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+  />
+  <Image
+    src={city3}
+    alt="City-1"
+    width={300}
+    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+  />
+  <Image
+    src={city2}
+    alt="City-1"
+    width={300}
+    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+  />
+  <Image
+    src={city4}
+    alt="City-1"
+    width={300}
+    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+  />
+</div>
+
         <div className="flex justify-center mt-8 space-x-72">
           <h1 className="bg-white shadow-sm shadow-gray-500 p-2 rounded-lg sm:block hidden">
             Bahawalpur
