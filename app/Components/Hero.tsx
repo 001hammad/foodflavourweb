@@ -193,25 +193,25 @@ const Hero = () => {
     src={city1}
     alt="City-1"
     width={300}
-    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+    className="rounded-xl sm:mt-0 mt-12 transform  transition-transform duration-300 ease-in-out hover:scale-110"
   />
   <Image
     src={city3}
     alt="City-1"
     width={300}
-    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+    className="rounded-xl sm:mt-0 mt-12 transform transition-transform duration-300 ease-in-out hover:scale-110"
   />
   <Image
     src={city2}
     alt="City-1"
     width={300}
-    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+    className="rounded-xl sm:mt-0 mt-12 transform transition-transform duration-300 ease-in-out hover:scale-110"
   />
   <Image
     src={city4}
     alt="City-1"
     width={300}
-    className="rounded-xl sm:block hidden transform transition-transform duration-300 ease-in-out hover:scale-110"
+    className="rounded-xl sm:mt-0 mt-12 transform transition-transform duration-300 ease-in-out hover:scale-110"
   />
 </div>
 
